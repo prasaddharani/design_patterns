@@ -1,4 +1,4 @@
-package org.example.patterns.singleton.lazy;
+package org.example.patterns.creational.singleton.lazy;
 
 /**
  * This class demonstrates the Double-Checked Locking (DCL) pattern for Singleton implementation.

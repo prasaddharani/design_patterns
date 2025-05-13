@@ -1,4 +1,4 @@
-package org.example.patterns.builder;
+package org.example.patterns.creational.builder;
 
 public class Address {
     private String street;

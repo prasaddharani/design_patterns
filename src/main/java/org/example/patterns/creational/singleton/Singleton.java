@@ -1,10 +1,10 @@
-package org.example.patterns.singleton;
+package org.example.patterns.creational.singleton;
 
-import org.example.patterns.singleton.eager.EagerSingleton;
-import org.example.patterns.singleton.lazy.LazySingleton;
-import org.example.patterns.singleton.lazy.SingletonDCL;
-import org.example.patterns.singleton.lazy.SingletonHolder;
-import org.example.patterns.singleton.lazy.SingletonSync;
+import org.example.patterns.creational.singleton.eager.EagerSingleton;
+import org.example.patterns.creational.singleton.lazy.LazySingleton;
+import org.example.patterns.creational.singleton.lazy.SingletonDCL;
+import org.example.patterns.creational.singleton.lazy.SingletonHolder;
+import org.example.patterns.creational.singleton.lazy.SingletonSync;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

@@ -1,6 +1,4 @@
-package org.example.patterns.builder;
-
-import org.example.patterns.factory.Account;
+package org.example.patterns.creational.builder;
 
 public class BankAccount {
     private String accountId;

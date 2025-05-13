@@ -1,4 +1,4 @@
-package org.example.patterns.factory;
+package org.example.patterns.creational.factory;
 
 
 public class BankApp {

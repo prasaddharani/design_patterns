@@ -1,4 +1,4 @@
-package org.example.patterns.singleton.eager; // Package declaration
+package org.example.patterns.creational.singleton.eager; // Package declaration
 
 /**
  * EagerSingleton demonstrates eager initialization of a singleton instance.

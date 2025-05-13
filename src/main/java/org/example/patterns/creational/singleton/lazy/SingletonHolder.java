@@ -1,4 +1,4 @@
-package org.example.patterns.singleton.lazy;
+package org.example.patterns.creational.singleton.lazy;
 
 /**
  * This class implements the Singleton design pattern using the **Bill Pugh Singleton Design**.

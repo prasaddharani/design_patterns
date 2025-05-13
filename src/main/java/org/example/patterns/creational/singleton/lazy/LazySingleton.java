@@ -1,4 +1,4 @@
-package org.example.patterns.singleton.lazy; // Package declaration
+package org.example.patterns.creational.singleton.lazy; // Package declaration
 
 /**
  * LazySingleton demonstrates lazy initialization of a singleton instance.

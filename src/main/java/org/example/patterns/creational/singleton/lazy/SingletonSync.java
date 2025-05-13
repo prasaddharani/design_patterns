@@ -1,4 +1,4 @@
-package org.example.patterns.singleton.lazy;
+package org.example.patterns.creational.singleton.lazy;
 
 public class SingletonSync {
     // Instance variable that holds the singleton instance.
