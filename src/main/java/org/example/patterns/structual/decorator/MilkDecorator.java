@@ -1,6 +1,6 @@
 package org.example.patterns.structual.decorator;
 
-public class MilkDecorator extends COffeeDecorator {
+public class MilkDecorator extends CoffeeDecorator {
     public MilkDecorator(Coffee coffee) {
         super(coffee);
     }
